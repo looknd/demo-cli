@@ -1,4 +1,5 @@
 name:demo-cli
 version:1.0.0
 
+js模式
 脚手架工具
